@@ -7,6 +7,9 @@ using System.Threading.Tasks;
 
 namespace StructPerformanceGains
 {
+    /// <summary>
+    /// Run without debugging enabled, ctrl & f5.
+    /// </summary>
     public class StructTest
     {
         public void BeginTest()
