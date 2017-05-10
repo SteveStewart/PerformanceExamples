@@ -50,6 +50,7 @@ namespace StructPerformanceGains
             long point2DStructTime = stopwatch.ElapsedMilliseconds;
             
             Console.WriteLine($"Struct:{point2DStructTime} Class:{point2DTime}");
+            Console.ReadKey();
         }
 
         void UpdatePoint2DStructY(ref Point2DStruct point2DStruct, int count)
