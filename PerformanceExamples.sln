@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerformanceExamples", "Perf
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateLeak", "CreateLeak\CreateLeak.csproj", "{B58D6896-3843-4F0E-8713-6DB96B5AC85E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructPerformanceGains", "StructPerformanceGains\StructPerformanceGains.csproj", "{F6663F91-AF45-420A-BF27-29DAB47CF9D8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{B58D6896-3843-4F0E-8713-6DB96B5AC85E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B58D6896-3843-4F0E-8713-6DB96B5AC85E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B58D6896-3843-4F0E-8713-6DB96B5AC85E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6663F91-AF45-420A-BF27-29DAB47CF9D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6663F91-AF45-420A-BF27-29DAB47CF9D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6663F91-AF45-420A-BF27-29DAB47CF9D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6663F91-AF45-420A-BF27-29DAB47CF9D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
